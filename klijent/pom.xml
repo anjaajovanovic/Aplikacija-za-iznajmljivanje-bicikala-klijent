@@ -40,6 +40,11 @@
       <artifactId>junit-jupiter-params</artifactId>
       <scope>test</scope>
     </dependency>
+    <dependency>
+       <groupId>rs.ac.bg.fon.ai</groupId>
+       <artifactId>zajednicki</artifactId>
+       <version>1.1.0</version>
+    </dependency>
   </dependencies>
 
   <build>
